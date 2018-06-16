@@ -1,0 +1,10 @@
+.button {
+    -fx-font-weight: bold;
+}
+.def {
+  -fx-alignment: center;
+}
+.custom {
+  -fx-control-inner-background: blue;
+  -fx-alignment: center;
+}
